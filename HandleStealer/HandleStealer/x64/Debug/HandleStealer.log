@@ -1,0 +1,6 @@
+﻿  HandleStealer.cpp
+d:\projects\hacking\handlestealer\handlestealer\handlestealer\handlestealer.cpp(118): warning C4018: '<': signed/unsigned mismatch
+d:\projects\hacking\handlestealer\handlestealer\handlestealer\handlestealer.cpp(255): warning C4018: '<': signed/unsigned mismatch
+d:\projects\hacking\handlestealer\handlestealer\handlestealer\handlestealer.cpp(337): warning C4312: 'type cast': conversion from 'int' to 'HANDLE' of greater size
+  HandleStealer.vcxproj -> D:\Projects\Hacking\HandleStealer\HandleStealer\x64\Debug\HandleStealer.exe
+  HandleStealer.vcxproj -> D:\Projects\Hacking\HandleStealer\HandleStealer\x64\Debug\HandleStealer.pdb (Partial PDB)
